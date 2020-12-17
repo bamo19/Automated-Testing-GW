@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.0/ygraphml.xsd" xmlns:y="http://www.yworks.com/xml/graphml">
+  <key id="d0" for="node" yfiles.type="nodegraphics"/>
+  <key id="d1" for="edge" yfiles.type="edgegraphics"/>
+  <graph id="G" edgedefault="directed">
+    <node id="142ecb50-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_digikalaSite</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="1504b8f0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_isMobileSearched</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="157506f0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_mobileDetailPage</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="16d0ed70-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_addedMobileToMyBasket</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="18a92fe0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_isTVSearched</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="18fd6a60-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_isLGTVSearched</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="19491960-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_TVDetailPage</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="d7921750-3a5c-11eb-adcf-af3442ea3f97">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_emptyBasket</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="5ecfd92d-36fb-4e94-bc89-c3450cb6194b">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_Start</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="4facdb30-3a5d-11eb-adcf-af3442ea3f97" source="d7921750-3a5c-11eb-adcf-af3442ea3f97" target="157506f0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_backToDetail</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="3ff79870-37c8-11eb-8b7f-9d9d4479540d" source="142ecb50-37c8-11eb-8b7f-9d9d4479540d" target="1504b8f0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_searchMobile</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="5b1f58e0-37c8-11eb-8b7f-9d9d4479540d" source="1504b8f0-37c8-11eb-8b7f-9d9d4479540d" target="157506f0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_mobileDetail</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="6aa88cf0-37c8-11eb-8b7f-9d9d4479540d" source="157506f0-37c8-11eb-8b7f-9d9d4479540d" target="16d0ed70-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_addToBasket</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="970116f0-37c8-11eb-8b7f-9d9d4479540d" source="142ecb50-37c8-11eb-8b7f-9d9d4479540d" target="18a92fe0-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_TVSearch</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="b4b52790-37c8-11eb-8b7f-9d9d4479540d" source="18a92fe0-37c8-11eb-8b7f-9d9d4479540d" target="18fd6a60-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_LGTVSearch</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="cefd5d70-37c8-11eb-8b7f-9d9d4479540d" source="18fd6a60-37c8-11eb-8b7f-9d9d4479540d" target="19491960-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_LGTVDetail</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8381af0-37c8-11eb-8b7f-9d9d4479540d" source="19491960-37c8-11eb-8b7f-9d9d4479540d" target="142ecb50-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_gotoHomePage</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="5a388d70-3a5c-11eb-adcf-af3442ea3f97" source="157506f0-37c8-11eb-8b7f-9d9d4479540d" target="142ecb50-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_digikalaItemClick</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="f80b1450-3a5c-11eb-adcf-af3442ea3f97" source="16d0ed70-37c8-11eb-8b7f-9d9d4479540d" target="d7921750-3a5c-11eb-adcf-af3442ea3f97">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_removeMobileFromBasket</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="035b1ac2-c2c0-41c2-92af-832cdab53271" source="5ecfd92d-36fb-4e94-bc89-c3450cb6194b" target="142ecb50-37c8-11eb-8b7f-9d9d4479540d">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_gotoDigikalaSite</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+</graphml>
